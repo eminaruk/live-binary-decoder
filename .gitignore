@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.idea/
+*.vs/
+.env
+.venv
+venv/
+ENV/
+
+myenv/
+
+# Data & outputs not needed in repo
+samples/
+*.png
+*.jpg
+*.jpeg
+*.webp
+_debug_*.png
+
+# OS junk
+.DS_Store
+Thumbs.db
