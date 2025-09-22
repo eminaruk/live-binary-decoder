@@ -2,6 +2,10 @@
 
 Minimal CLI to read 0/1 digits from a live camera and decode them as text.
 
+### Demo
+
+![Live demo](example.gif)
+
 ### Install
 
 1) Python 3.10+
